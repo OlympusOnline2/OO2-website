@@ -387,7 +387,7 @@
       loop();
 
     };
-    invaderAsset.src = "//stillhart.biz/project/spaceInvaders/invader.gif";
+    invaderAsset.src = "_assets/images/invader.gif";
 
   });
 
