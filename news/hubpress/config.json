@@ -7,8 +7,8 @@
   "site": {
     "title": "Olympus Online",
     "description": "Olympus Online Minecraft Blog",
-    "logo": "https://brennanflory.github.io/hubpress.io/images/logo_large.png",
-    "cover": "https://brennanflory.github.io/hubpress.io/images/background.png",
+    "logo": "https://github.com/OlympusOnline2/OO2-website/blob/master/images/logo_large.png",
+    "cover": "https://github.com/OlympusOnline2/OO2-website/blob/master/images/background.png",
     "disqus": "OlympusOnline"
   },
   "socialnetwork": {
