@@ -387,7 +387,7 @@
       loop();
 
     };
-    invaderAsset.src = "_assets/images/invader.gif";
+    invaderAsset.src = "/OO2-website/_assets/images/invader.gif";
 
   });
 
